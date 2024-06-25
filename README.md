@@ -1,6 +1,6 @@
 ## Time-Zone Greetings, and Good Day 👋
 
-If you'd like to see my contributions from late 2017 to mid 2024 please check out https://github.com/amark-axcient.
+Please find my [active contributions from late 2017 to mid 2024 here](https://github.com/amark-axcient).
 
 I've just started this Readme, pardon the dust, it's under construction.
 
